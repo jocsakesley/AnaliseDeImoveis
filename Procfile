@@ -1,0 +1,1 @@
+web: gunicorn analise_de_imoveis.wsgi --log-file -
